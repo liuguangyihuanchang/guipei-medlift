@@ -31,7 +31,7 @@ You're cycling through 10+ patients a day. The last thing you need is another 2 
 ## 📱 Android App — How It Works
 
 ```
-第1步   下载安装 MedVox 安卓应用
+第1步   下载安装安卓应用
          ↓
 第2步   在阿里云百炼或其他 API 提供商注册
          ↓
