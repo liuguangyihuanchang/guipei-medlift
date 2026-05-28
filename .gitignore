@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local config (contains API keys)
+.env
+.env.local
+
+# Build outputs
+*.apk
+*.aab
+*.jar
+*.class
+*.dex
+
+# Android
+.gradle/
+build/
+*/build/
+*.iml
+local.properties
+*.keystore
+*.jks
