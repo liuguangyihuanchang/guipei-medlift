@@ -15,17 +15,17 @@
 
 点击右上角进入**大模型服务平台百炼控制台**：
 
-![图001：进入百炼控制台](./图片001.jpg)
+<img src="https://raw.githubusercontent.com/liuguangyihuanchang/guipei-medlift/main/docs/图片001.jpg" width="800" />
 
 ### 1.3 创建 API Key
 
 点击左下角 **API-Key** 管理入口：
 
-![图002：API-Key 管理入口](./图片002.jpg)
+<img src="https://raw.githubusercontent.com/liuguangyihuanchang/guipei-medlift/main/docs/图片002.jpg" width="800" />
 
 点击**创建 API-Key**，复制并妥善保存，后续需要填入 App 中：
 
-![图003：创建并复制 API Key](./图片003.jpg)
+<img src="https://raw.githubusercontent.com/liuguangyihuanchang/guipei-medlift/main/docs/图片003.jpg" width="800" />
 
 ---
 
@@ -54,7 +54,7 @@
 
 配置示意图：
 
-![图004：模型配置示例](./图片004.jpg)
+<img src="https://raw.githubusercontent.com/liuguangyihuanchang/guipei-medlift/main/docs/图片004.jpg" width="800" />
 
 ---
 
