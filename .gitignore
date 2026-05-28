@@ -27,13 +27,12 @@ logs/
 .env.local
 
 # Build outputs
-*.apk
 *.aab
 *.jar
 *.class
 *.dex
 
-# Android
+# Android build artifacts
 .gradle/
 build/
 */build/
@@ -41,3 +40,7 @@ build/
 local.properties
 *.keystore
 *.jks
+
+# Track distributed APKs in android/
+!android/*.apk
+!android/*.aab
